@@ -119,7 +119,7 @@ Task1/
 └── screenshots/
     ├── dataset.png
     ├── heatmap.png
-    └── prediction.png
+    └── actual vs prediction.png
 ```
 
 ---
