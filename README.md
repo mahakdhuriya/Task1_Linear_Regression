@@ -104,7 +104,7 @@ These metrics help determine how accurately the model predicts house prices.
 
 ### Actual vs Predicted House Prices
 
-![Prediction](https://github.com/mahakdhuriya/Task1_Linear_Regression/blob/5338ac2a87adeef1dbb7023d9892269d38df607f/screenshots/actual%20vs%20prediction.png/prediction.png)
+![Prediction](https://github.com/mahakdhuriya/Task1_Linear_Regression/blob/5338ac2a87adeef1dbb7023d9892269d38df607f/screenshots/actual%20vs%20prediction.png)
 
 ---
 
